@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Volley</string>
+    <string name="download_button">Descargar Imagen</string>
+    <string name="cancel_button">Cancelar descarga</string>
+</resources>
